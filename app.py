@@ -1,5 +1,5 @@
 import streamlit as st # type: ignore
-st.title("Welcome to my ai app")
+st.title("Hey welcome to lenGPT an text-text generative AI chatbot created by Allen, You can give your prompt below to run and get result")
 
 import google.generativeai as genai
 genai.configure(api_key="AIzaSyCDG2E0rT4Wp1YnaBEHH8W5wathqskci5c")
